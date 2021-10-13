@@ -27,9 +27,9 @@
 /*===========================
      01.COMMON css 
 ===========================*/
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700|Lato:300,400,700&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Lato:300,400,700&display=swap");
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: normal;
   font-style: normal;
   color: #6a6972;
@@ -82,7 +82,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   color: #2e2e2e;
   margin: 0px;
@@ -166,12 +166,12 @@ p {
   transition: all 0.4s ease-out 0s;
   background: -webkit-linear-gradient(
     left,
-    #33c8c1 0%,
-    #119bd2 50%,
-    #33c8c1 100%
+    #ccf381 0%,
+    #4831d4 50%,
+    #ccf381 100%
   );
-  background: -o-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
-  background: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
+  background: -o-linear-gradient(left, #ccf381 0%, #4831d4 50%, #ccf381 100%);
+  background: linear-gradient(to right, #ccf381 0%, #4831d4 50%, #ccf381 100%);
   background-size: 200%;
 }
 .main-btn:hover {
@@ -181,9 +181,9 @@ p {
 
 /*===== All SECTION TITLE Style =====*/
 .section-title .line {
-  background: -webkit-linear-gradient(#33c8c1 0%, #119bd2 100%);
-  background: -o-linear-gradient(#33c8c1 0%, #119bd2 100%);
-  background: linear-gradient(#33c8c1 0%, #119bd2 100%);
+  background: -webkit-linear-gradient(#ccf381 0%, #4831d4 100%);
+  background: -o-linear-gradient(#ccf381 0%, #4831d4 100%);
+  background: linear-gradient(#ccf381 0%, #4831d4 100%);
   width: 150px;
   height: 5px;
   margin-bottom: 10px !important;
@@ -213,7 +213,7 @@ p {
 .section-title .sub-title {
   font-size: 18px;
   font-weight: 400;
-  color: #361cc1;
+  color: #ccf381;
   text-transform: uppercase;
 }
 @media (max-width: 767px) {
@@ -333,7 +333,7 @@ p {
   height: 100%;
   border-style: solid;
   /* Spinner Color */
-  border-color: #361cc1 #361cc1 #e1e1e1;
+  border-color: #ccf381 #ccf381 #e1e1e1;
   border-radius: 50%;
   border-width: 6px;
 }
@@ -742,7 +742,7 @@ p {
   transition: all 0.3s ease-out 0s;
   padding: 10px 0;
   position: relative;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .navbar-nav .nav-item a {
@@ -821,7 +821,7 @@ p {
 .navbar-nav .nav-item .sub-menu li a.active,
 .navbar-nav .nav-item .sub-menu li a:hover {
   padding-left: 25px;
-  color: #361cc1;
+  color: #ccf381;
 }
 
 .navbar-nav .sub-nav-toggler {
@@ -900,12 +900,12 @@ p {
   line-height: 45px;
   background: -webkit-linear-gradient(
     left,
-    #33c8c1 0%,
-    #119bd2 50%,
-    #33c8c1 100%
+    #ccf381 0%,
+    #4831d4 50%,
+    #ccf381 100%
   );
-  background: -o-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
-  background: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
+  background: -o-linear-gradient(left, #ccf381 0%, #4831d4 50%, #ccf381 100%);
+  background: linear-gradient(to right, #ccf381 0%, #4831d4 50%, #ccf381 100%);
   background-size: 200%;
 }
 .navbar-btn .main-btn:hover {
@@ -923,7 +923,7 @@ p {
 
 .sticky .navbar-nav .nav-item.active > a,
 .sticky .navbar-nav .nav-item:hover > a {
-  color: #361cc1;
+  color: #ccf381;
 }
 
 /*===== HEADER HERO =====*/
@@ -1127,7 +1127,7 @@ p {
   }
 }
 .single-services .services-content .services-title a:hover {
-  color: #361cc1;
+  color: #ccf381;
 }
 .single-services .services-content .text {
   margin-top: 30px;
@@ -1152,7 +1152,7 @@ p {
   margin-left: 10px;
 }
 .single-services .services-content .more:hover {
-  color: #361cc1;
+  color: #ccf381;
 }
 .single-services:hover {
   border-color: #fe7a7b;
@@ -1216,12 +1216,12 @@ p {
 .about-content .main-btn {
   background: -webkit-linear-gradient(
     left,
-    #33c8c1 0%,
-    #119bd2 50%,
-    #33c8c1 100%
+    #ccf381 0%,
+    #4831d4 50%,
+    #ccf381 100%
   );
-  background: -o-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
-  background: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
+  background: -o-linear-gradient(left, #ccf381 0%, #4831d4 50%, #ccf381 100%);
+  background: linear-gradient(to right, #ccf381 0%, #4831d4 50%, #ccf381 100%);
   background-size: 200%;
   height: 50px;
   line-height: 50px;
@@ -1291,7 +1291,7 @@ p {
   text-align: center;
   border-radius: 50%;
   background-color: #fff;
-  color: #33c8c1;
+  color: #ccf381;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1345,7 +1345,7 @@ p {
 }
 .counter-wrapper .single-counter::before {
   position: absolute;
-  content: '';
+  content: "";
   width: 155px;
   height: 120px;
   border-radius: 60px;
@@ -1371,19 +1371,19 @@ p {
   }
 }
 .counter-wrapper .single-counter.counter-color-1::before {
-  background: -webkit-linear-gradient(#33c8c1 0%, #119bd2 100%);
-  background: -o-linear-gradient(#33c8c1 0%, #119bd2 100%);
-  background: linear-gradient(#33c8c1 0%, #119bd2 100%);
+  background: -webkit-linear-gradient(#ccf381 0%, #4831d4 100%);
+  background: -o-linear-gradient(#ccf381 0%, #4831d4 100%);
+  background: linear-gradient(#ccf381 0%, #4831d4 100%);
 }
 .counter-wrapper .single-counter.counter-color-2::before {
-  background: -webkit-linear-gradient(#33c8c1 0%, #119bd2 100%);
-  background: -o-linear-gradient(#33c8c1 0%, #119bd2 100%);
-  background: linear-gradient(#33c8c1 0%, #119bd2 100%);
+  background: -webkit-linear-gradient(#ccf381 0%, #4831d4 100%);
+  background: -o-linear-gradient(#ccf381 0%, #4831d4 100%);
+  background: linear-gradient(#ccf381 0%, #4831d4 100%);
 }
 .counter-wrapper .single-counter.counter-color-3::before {
-  background: -webkit-linear-gradient(#361cc1 0%, #2e82ef 100%);
-  background: -o-linear-gradient(#361cc1 0%, #2e82ef 100%);
-  background: linear-gradient(#361cc1 0%, #2e82ef 100%);
+  background: -webkit-linear-gradient(#ccf381 0%, #2e82ef 100%);
+  background: -o-linear-gradient(#ccf381 0%, #2e82ef 100%);
+  background: linear-gradient(#ccf381 0%, #2e82ef 100%);
 }
 .counter-wrapper .single-counter .count {
   font-size: 22px;
@@ -1478,7 +1478,7 @@ p {
   color: #b9b9b9;
 }
 .subscribe-form input:focus {
-  border-color: #361cc1;
+  border-color: #ccf381;
 }
 .subscribe-form button {
   position: absolute;
@@ -1491,12 +1491,12 @@ p {
   line-height: 65px;
   background: -webkit-linear-gradient(
     left,
-    #33c8c1 0%,
-    #119bd2 50%,
-    #33c8c1 100%
+    #ccf381 0%,
+    #4831d4 50%,
+    #ccf381 100%
   );
-  background: -o-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
-  background: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
+  background: -o-linear-gradient(left, #ccf381 0%, #4831d4 50%, #ccf381 100%);
+  background: linear-gradient(to right, #ccf381 0%, #4831d4 50%, #ccf381 100%);
   background-size: 200%;
 }
 @media (max-width: 767px) {
@@ -1533,7 +1533,7 @@ p {
 
 .footer-area::before {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 0;
   left: 0;
   height: 100%;
@@ -1589,7 +1589,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .footer-about .social li a:hover {
-  color: #33c8c1;
+  color: #ccf381;
 }
 
 .footer-title .title {
@@ -1623,7 +1623,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .link-wrapper .link li a:hover {
-  color: #33c8c1;
+  color: #ccf381;
 }
 
 .footer-contact .contact {
@@ -1658,7 +1658,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .copyright-content a:hover {
-  color: #33c8c1;
+  color: #ccf381;
 }
 
 /*===== BACK TO TOP =====*/
@@ -1672,9 +1672,9 @@ p {
   height: 40px;
   line-height: 40px;
   border-radius: 5px;
-  background: -webkit-linear-gradient(left, #361cc1 0%, #2e82ef 100%);
-  background: -o-linear-gradient(left, #361cc1 0%, #2e82ef 100%);
-  background: linear-gradient(to right, #361cc1 0%, #2e82ef 100%);
+  background: -webkit-linear-gradient(left, #ccf381 0%, #2e82ef 100%);
+  background: -o-linear-gradient(left, #ccf381 0%, #2e82ef 100%);
+  background: linear-gradient(to right, #ccf381 0%, #2e82ef 100%);
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -1774,12 +1774,12 @@ p {
 }
 
 #sidebar ul li.active > a,
-a[aria-expanded='true'] {
+a[aria-expanded="true"] {
   color: #fff;
   background: #000b5c;
 }
 
-a[data-toggle='collapse'] {
+a[data-toggle="collapse"] {
   position: relative;
 }
 
